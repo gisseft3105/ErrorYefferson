@@ -15,6 +15,11 @@ img {
     height: 100%;
 }
 
+img2 {
+    padding: 30px;
+    width: 20%;
+    align-items:center;
+}
 .footer {
     background-color: gray;
     padding: 5px;
